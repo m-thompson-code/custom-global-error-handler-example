@@ -1,5 +1,4 @@
 import { AboutPageComponent } from './routes/about-page.component';
-
 import { ThrowErrorPageComponent } from './routes/throw-error-page.component';
 import { LogErrorPageComponent } from './routes/log-error-page.component';
 import { Routes } from '@angular/router';
