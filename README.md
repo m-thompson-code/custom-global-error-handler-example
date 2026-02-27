@@ -54,6 +54,14 @@ ng e2e
 
 Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
 
+## Custom global error handler demo
+
+This repository includes a demo of a custom global error handler whose behavior is configured via routing guards:
+
+- The implementation notes live in `custom-error-handler-implementation-notes.md`.
+- The feature specification and design documents live under `specs/001-custom-global-error-handler/`.
+- A quickstart for running the demo and its integration tests is available at `specs/001-custom-global-error-handler/quickstart.md`.
+
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
